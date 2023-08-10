@@ -94,4 +94,7 @@ form a:hover{
         align-items: center;
         
     }
+    .des{
+        max-width: 70%;
+    }
 }
