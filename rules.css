@@ -96,5 +96,6 @@ form a:hover{
     }
     .des{
         max-width: 100%;
+        text-align:justify;
     }
 }
