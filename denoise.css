@@ -80,5 +80,11 @@
     from{ background-image: ("banner-before.avif");}
     to{background-image:url("banner-after.avif");}
 }
+@media(max-width:1080px){
+    .slider{
+        flex-direction:column;
+        align-items: center;
+    }  
+}
 
 
