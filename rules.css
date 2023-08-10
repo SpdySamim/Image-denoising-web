@@ -88,3 +88,10 @@ form a{
 form a:hover{
     transform: scale(1.05);
 }
+@media(max-width:1080px){
+    .middle{
+        flex-direction: column;
+        align-items: center;
+        
+    }
+}
